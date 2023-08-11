@@ -15,4 +15,4 @@ uuid
 uvicorn
 virtualenv
 Werkzeug
-python
+
