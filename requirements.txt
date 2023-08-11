@@ -1,18 +1,7 @@
-asgi-lifespan
-blinker
-click
-colorama
-distlib
-filelock
+
+
 Flask
-h11
-itsdangerous
-Jinja2
-MarkupSafe
-platformdirs
-sniffio
 uuid
-uvicorn
-virtualenv
-Werkzeug
+gunicorn
+
 
