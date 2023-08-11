@@ -11,3 +11,4 @@ platformdirs==3.10.0
 uuid==1.30
 virtualenv==20.24.2
 Werkzeug==2.2.3
+uvicorn==0.18.3
